@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Landing Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="lalu.css">
+</head>
+
+<body>
+
+  <header>
+    <h1 style="color:rgba(8, 17, 99, 0.842);">XXX.COM</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Hello, I'm pakya 👋</h2>
+    <p>
+       HELLO I AM PAKYA I LOVE YOU COMOTOZZE
+    </p>
+    <img  width="200" src="https://i.pinimg.com/originals/85/a3/9b/85a39bdb1df1a7c040bbcab51ba048d7.jpg">
+    <button>Contact Me</button>
+  </section>
+
+  <footer>
+    © 2026 MyBrand. All rights reserved.
+  </footer>
+
+</body>
+</html>
